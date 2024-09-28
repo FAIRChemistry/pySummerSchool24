@@ -14,8 +14,12 @@ If you have access to the Jupyter Hub of Uni Stuttgart, you can download go to t
 
 1. Go th the [Workshop Notebook](https://github.com/FAIRChemistry/pySummerSchool24/blob/add-colab/workshop.ipynb)
 2. Click on the arrow pointing down on the top right of the page to download the notebook.
+![Download Notebook](./figs/github-download.png)
 
 After downloading the notebook, you can upload it to the Jupyter Hub by following these steps:
 
-1. Click on the "Upload" button in the Jupyter Hub.
-2. Open the notebook by double-clicking on it.
+1. Log in to the Jupyter Hub of [Uni Stuttgart](https://jupyterhub.tik.uni-stuttgart.de/) using your AC or GS credentials.
+2. Select the `Create Data Science Notebook` option.
+3. Click on the arrow pointing up in the top left of the page to upload the notebook and upload the downloaded notebook.
+![Upload Notebook](./figs/jupyter-home.png)
+4. Open the notebook uploaded notebook by double-clicking on it.
