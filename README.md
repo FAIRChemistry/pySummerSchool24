@@ -24,4 +24,4 @@ After downloading the notebook, you can upload it to the Jupyter Hub by followin
 2. Select the `Create Data Science Notebook` option.
 3. Click on the arrow pointing up in the top left of the page to upload the notebook and upload the downloaded notebook.
 ![Upload Notebook](./img/jupyter-home.png)
-4. Open the notebook uploaded notebook by double-clicking on it.
+4. Open the uploaded notebook by double-clicking on it.
